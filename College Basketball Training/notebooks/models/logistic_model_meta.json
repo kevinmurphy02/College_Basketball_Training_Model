@@ -1,0 +1,27 @@
+{
+  "feature_names": [
+    "home_advantage",
+    "OffRating_diff",
+    "Off_eFG_diff",
+    "Off_3P%_diff",
+    "Off_2P%_diff",
+    "Off_FT%_diff",
+    "Off_3PA%_diff",
+    "Off_TOV%_diff",
+    "Off_FTR_diff",
+    "Off_A%_diff",
+    "Off_OR%_diff",
+    "DefRating_diff",
+    "Def_eFG_allowed_diff",
+    "Def_3P%_allowed_diff",
+    "Def_2P%_allowed_diff",
+    "Def_FT%_allowed_diff",
+    "Def_3PA%_allowed_diff",
+    "Def_TOV%_diff",
+    "Def_DR%_diff",
+    "Def_BLK%_diff",
+    "Def_STL%_diff",
+    "Poss_diff"
+  ],
+  "intercept": 0.0009415541375047879
+}
